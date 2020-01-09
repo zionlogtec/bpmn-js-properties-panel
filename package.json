@@ -1,6 +1,6 @@
 {
   "name": "bpmn-js-zion-properties-panel",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A properties panel for bpmn-js",
   "scripts": {
     "lint": "eslint .",
